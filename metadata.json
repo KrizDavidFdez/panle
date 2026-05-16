@@ -1,0 +1,12 @@
+{
+  "name": "Skyeb - Universal Cloud Controller",
+  "description": "An advanced Pterodactyl-like platform optimized for Koyeb that manages server applications and generic persistent environments.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
